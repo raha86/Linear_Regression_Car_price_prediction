@@ -1,6 +1,6 @@
 # Linear_Regression_Car_price_prediction
 
-## Dataseet link:
+## Dataset link:
 https://drive.google.com/file/d/1JHPaqHG8sZIzkpvIW0RC7DdH864lec7N/view?usp=sharing
 
 ## Problem Statement
