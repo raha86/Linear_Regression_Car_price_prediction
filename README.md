@@ -22,7 +22,7 @@ We are required to model the price of cars with the available independent variab
 ### 2. Performed label encoding.
 
 ### 3. Performed Feature selection for data modelling.
-* Used correlation matrix and heatmap to select required feature.
+* Used <b>correlation matrix and heatmap</b> to select required feature.
   
 ### 4. Performed data preprocessing.
 * Normalizing the features so that the samples will have the same mean and standard deviation. Used standard scaler.
@@ -30,7 +30,8 @@ We are required to model the price of cars with the available independent variab
 ### 5. Model Building.
 
 ### 6. Model Evaluation.
-* Used R2-Score to evaluate model performance. Achieved 89.9% accuracy(~90%).
+* Used <b>R2-Score</b> to evaluate model performance.
+* Achieved: R2-Score 0.899 (~90%).
 
 ### 7. Visual Representation.
 ![image](https://github.com/user-attachments/assets/bf2d1677-d0b3-4255-964a-172065f937c3)
